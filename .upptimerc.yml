@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /page3time
   logoUrl: https://www.techtack-technologies.com/assets/logo_main.png
-  name: Techtack Technologies
+  name: Techtack-Technologies
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: 
   navbar:
