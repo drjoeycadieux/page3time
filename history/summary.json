@@ -4,18 +4,20 @@
     "url": "https://techtack-technologies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
     "slug": "techtack-technologies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 441,
-    "timeWeek": 305,
-    "timeMonth": 252,
-    "timeYear": 252,
-    "dailyMinutesDown": {}
+    "time": 302,
+    "timeDay": 965,
+    "timeWeek": 453,
+    "timeMonth": 302,
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   },
   {
     "name": "api3",
