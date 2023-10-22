@@ -11,6 +11,8 @@ sites:
     url: https://portal3.techtack-technologies.com/
   - name: services-interruption
     url: https://services-interruption.techtack-technologies.com/
+  - name: Techtack-TechnologiesV2
+    url: https://techtack-technologiesinternal.netlify.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
