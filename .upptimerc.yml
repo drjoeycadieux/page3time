@@ -9,8 +9,6 @@ sites:
     url: https://techtack-technologies.com/portal/
   - name: api3
     url: https://api3.techtack-technologies.com/
-  - name: portal3
-    url: https://portal3.techtack-technologies.com/
   - name: services-interruption
     url: https://services-interruption.techtack-technologies.com/
   - name: Techtack-TechnologiesV2
