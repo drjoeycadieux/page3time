@@ -40,18 +40,20 @@
     "url": "https://api3.techtack-technologies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api3.techtack-technologies.com.ico",
     "slug": "api3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 100,
-    "timeWeek": 97,
-    "timeMonth": 125,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 2578,
+    "timeWeek": 648,
+    "timeMonth": 266,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "services-interruption",
