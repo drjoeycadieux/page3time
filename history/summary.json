@@ -40,19 +40,19 @@
     "url": "https://api3.techtack-technologies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api3.techtack-technologies.com.ico",
     "slug": "api3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 2578,
-    "timeWeek": 648,
-    "timeMonth": 266,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 196,
+    "timeDay": 1757,
+    "timeWeek": 595,
+    "timeMonth": 262,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 7
     }
   },
   {
