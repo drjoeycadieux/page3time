@@ -4,9 +4,9 @@
     "url": "https://techtack-technologies.com/",
     "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
     "slug": "techtack-technologies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 105,
     "timeMonth": 217,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 0
+    }
   },
   {
     "name": "techtack-technologies Portal",
     "url": "https://techtack-technologies.com/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
     "slug": "techtack-technologies-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 21,
     "timeMonth": 51,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 0
+    }
   },
   {
     "name": "api3",
