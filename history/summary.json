@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 253,
-    "timeDay": 191,
-    "timeWeek": 216,
-    "timeMonth": 196,
-    "timeYear": 253,
+    "time": 251,
+    "timeDay": 133,
+    "timeWeek": 172,
+    "timeMonth": 194,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2023-12-08": 15
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
     "slug": "techtack-technologies-portal",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 55,
-    "timeDay": 281,
-    "timeWeek": 65,
-    "timeMonth": 48,
-    "timeYear": 55,
+    "uptimeYear": "99.98%",
+    "time": 54,
+    "timeDay": 4,
+    "timeWeek": 61,
+    "timeMonth": 46,
+    "timeYear": 54,
     "dailyMinutesDown": {
       "2023-12-08": 15
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 120,
-    "timeWeek": 134,
-    "timeMonth": 269,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 133,
+    "timeWeek": 147,
+    "timeMonth": 267,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 73,
-    "timeWeek": 191,
-    "timeMonth": 164,
+    "timeDay": 71,
+    "timeWeek": 182,
+    "timeMonth": 159,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 80,
-    "timeWeek": 70,
-    "timeMonth": 72,
-    "timeYear": 84,
+    "time": 83,
+    "timeDay": 20,
+    "timeWeek": 68,
+    "timeMonth": 70,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   }
 ]
