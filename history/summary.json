@@ -5,60 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
     "slug": "techtack-technologies",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 250,
     "timeDay": 113,
     "timeWeek": 139,
     "timeMonth": 188,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-12-20": 0,
+      "2023-12-20": 15,
       "2023-12-08": 15
-    }
-  },
-  {
-    "name": "techtack-technologies Portal",
-    "url": "https://techtack-technologies.com/portal/",
-    "icon": "https://icons.duckduckgo.com/ip3/techtack-technologies.com.ico",
-    "slug": "techtack-technologies-portal",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 53,
-    "timeDay": 32,
-    "timeWeek": 51,
-    "timeMonth": 43,
-    "timeYear": 53,
-    "dailyMinutesDown": {
-      "2023-12-20": 0,
-      "2023-12-08": 15
-    }
-  },
-  {
-    "name": "api3",
-    "url": "https://api3.techtack-technologies.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/api3.techtack-technologies.com.ico",
-    "slug": "api3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 114,
-    "timeWeek": 116,
-    "timeMonth": 272,
-    "timeYear": 187,
-    "dailyMinutesDown": {
-      "2023-12-20": 0
     }
   },
   {
@@ -67,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/services-interruption.techtack-technologies.com.ico",
     "slug": "services-interruption",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 153,
     "timeDay": 117,
     "timeWeek": 185,
     "timeMonth": 163,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 15
     }
   },
   {
