@@ -5,10 +5,6 @@ repo: page3time # The name of this repository
 sites:
   - name: techtack-technologies
     url: https://techtack-technologies.com/
-  - name: techtack-technologies Portal
-    url: https://techtack-technologies.com/portal/
-  - name: api3
-    url: https://api3.techtack-technologies.com/
   - name: services-interruption
     url: https://services-interruption.techtack-technologies.com/
   - name: Techtack-TechnologiesV2
